@@ -1,5 +1,5 @@
 <h1>temperature-converter<h2/>
 
-<p>Check temperature Celsius to Fahrenheit
+<h3>Check temperature Celsius to Fahrenheit <h3/>
 
-using HTML CSS JavaScript <p/>
+<h3>using HTML CSS JavaScript <h3/>
